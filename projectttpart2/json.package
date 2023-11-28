@@ -1,0 +1,12 @@
+{
+  "name": "projecttpart2",
+  "version": "1.0.0",
+  "description": "Node.js project for projecttpart2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
